@@ -1,0 +1,8 @@
+industry,emissions_intensity_benchmark,energy_intensity_benchmark,water_intensity_benchmark
+Technology,5,18,25
+Food,8,22,80
+Logistics,12,25,35
+Manufacturing,10,24,55
+Healthcare,6,20,40
+Retail,5,17,30
+Energy,9,28,50

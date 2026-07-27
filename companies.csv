@@ -1,0 +1,11 @@
+company_id,company_name,industry,founded_year,employees,annual_revenue_million,region
+C001,GreenByte AI,Technology,2018,420,85,North America
+C002,NovaFoods,Food,2012,850,160,North America
+C003,UrbanLogix,Logistics,2015,650,140,Europe
+C004,EcoForge,Manufacturing,2008,1200,280,Asia
+C005,BlueWave Health,Healthcare,2017,530,120,North America
+C006,TerraRetail,Retail,2010,900,210,Europe
+C007,SolarNest,Energy,2019,310,75,Asia
+C008,PureHarvest,Food,2014,720,150,North America
+C009,NextGrid Systems,Technology,2020,280,65,Europe
+C010,CircularWorks,Manufacturing,2011,1050,240,Asia

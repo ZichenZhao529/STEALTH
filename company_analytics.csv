@@ -1,0 +1,11 @@
+company_id,company_name,industry,employees,annual_revenue_million,total_emissions,total_energy,total_water_usage,total_waste_output,avg_renewable_energy_pct,emissions_intensity,energy_intensity,water_intensity,carbon_change_pct,emissions_intensity_benchmark,energy_intensity_benchmark,water_intensity_benchmark,emissions_vs_benchmark,energy_vs_benchmark,water_vs_benchmark,emissions_score,energy_score,water_score,renewable_score,waste_score,sustainability_score,risk_level,sustainability_rank
+C001,GreenByte AI,Technology,420,85.0,3372.65,10411.94,17032.49,229.93,61.18,39.68,122.49,200.38,-13.63,5.0,18.0,25.0,7.94,6.81,8.02,89.92,87.85,89.87,83.52,99.96,88.9,Low Risk,1
+C006,TerraRetail,Retail,900,210.0,6428.17,17011.15,40065.63,1167.65,41.15,30.61,81.01,190.79,-13.37,5.0,17.0,30.0,6.12,4.77,6.36,100.0,100.0,99.02,38.22,63.03,80.71,Low Risk,2
+C009,NextGrid Systems,Technology,280,65.0,3552.36,10670.05,18175.81,229.02,59.93,54.65,164.15,279.63,8.88,5.0,18.0,25.0,10.93,9.12,11.19,73.27,74.06,72.35,80.7,100.0,77.82,Medium Risk,3
+C004,EcoForge,Manufacturing,1200,280.0,20667.4,42604.37,95193.55,2701.3,31.68,73.81,152.16,339.98,-18.67,10.0,24.0,55.0,7.38,6.34,6.18,93.0,90.62,100.0,16.8,2.63,65.49,Medium Risk,4
+C005,BlueWave Health,Healthcare,530,120.0,7195.46,20142.25,64720.7,1244.68,42.37,59.96,167.85,539.34,-18.07,6.0,20.0,40.0,9.99,8.39,13.48,78.47,78.39,59.65,40.97,60.0,64.41,Medium Risk,5
+C002,NovaFoods,Food,850,160.0,10194.14,24534.38,139451.63,2078.17,33.27,63.71,153.34,871.57,-12.85,8.0,22.0,80.0,7.96,6.97,10.89,89.76,86.87,73.96,20.39,27.17,63.21,Medium Risk,6
+C003,UrbanLogix,Logistics,650,140.0,18062.56,34077.14,36523.39,982.13,24.26,129.02,243.41,260.88,-0.82,12.0,25.0,35.0,10.75,9.74,7.45,74.26,70.39,92.97,0.0,70.34,57.33,High Risk,7
+C010,CircularWorks,Manufacturing,1050,240.0,21944.33,44206.31,100740.34,2768.06,27.15,91.43,184.19,419.75,0.9,10.0,24.0,55.0,9.14,7.67,7.63,83.2,82.67,91.99,6.53,0.0,56.92,High Risk,8
+C008,PureHarvest,Food,720,150.0,11480.3,28050.78,154167.83,2164.02,33.48,76.54,187.01,1027.79,12.26,8.0,22.0,80.0,9.57,8.5,12.85,80.85,77.75,63.17,20.87,23.79,56.88,High Risk,9
+C007,SolarNest,Energy,310,75.0,16273.14,45259.69,91046.42,1794.32,68.46,216.98,603.46,1213.95,15.97,9.0,28.0,50.0,24.11,21.55,24.28,0.0,0.0,0.0,100.0,38.35,28.84,High Risk,10
